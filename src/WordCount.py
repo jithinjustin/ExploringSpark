@@ -4,7 +4,7 @@ import os
 import sys
 
 from pyspark import SparkContext
-from pyspark import SparkConf
+
 from operator import add
 
 sc=SparkContext()
