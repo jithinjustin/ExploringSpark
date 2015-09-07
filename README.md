@@ -1,2 +1,2 @@
 # ExploringSpark
-Sample pyspark code
+This repo contains code which explores spark through pyspark.
